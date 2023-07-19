@@ -2,6 +2,8 @@
 
 Website Prospector is a project that helps collect and analyze data on potential prospects on our website. It integrates with Salesforce, a sales and customer relationship management platform, as well as other external services such as Apollo, Predict Leads and Slack. The main file of the project is `server.js`.
 
+![image](https://github.com/tsinghgill/website-prospector/assets/13230367/d03ebc6a-7105-4c26-bf1d-e6e966ac980d)
+
 ## Installation
 
 To use Website Prospector, please follow these steps:
