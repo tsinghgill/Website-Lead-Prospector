@@ -1,0 +1,21 @@
+# .gitignore
+
+# Environment variables
+.env
+
+# Certificates
+certificate.pem
+privatekey.pem
+
+# Node dependencies
+node_modules/
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+
+# Compiled files
+*.compiled
